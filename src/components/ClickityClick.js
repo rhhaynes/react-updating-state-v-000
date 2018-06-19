@@ -5,8 +5,7 @@ class ClickityClick extends React.Component {
     super();
     this.state = { hasBeenClicked: false };
   }
-  handleClick = () => {
-  }
+  handleClick = () => {}
   render() {
     return (
       <div>
